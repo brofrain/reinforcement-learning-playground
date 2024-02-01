@@ -19,7 +19,7 @@ fn main() {
         .gamma(0.99)
         .lmbda(0.95)
         .clip_epsilon(0.2)
-        .kl_epsilon(5e-3)
+        .kl_epsilon(0.05)
         .actor_learning_rate(3e-4)
         .critic_learning_rate(1e-3)
         .num_steps_per_epoch(10_000)

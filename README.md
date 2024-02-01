@@ -215,7 +215,7 @@ Training durations were measured on a PC with an AMD Ryzen 5 3600X 6-core proces
     <td>Rust & PyTorch</td>
     <td>Every 2 epochs</td>
     <td>200</td>
-    <td>7.26s</td>
+    <td>7.32s</td>
   </tr>
 </table>
 
